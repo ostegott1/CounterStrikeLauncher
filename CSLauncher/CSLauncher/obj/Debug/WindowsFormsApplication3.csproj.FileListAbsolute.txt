@@ -1,0 +1,10 @@
+c:\users\hr.angelov\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\hr.angelov\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\hr.angelov\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\hr.angelov\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Hr.Angelov\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Counter-Strike-Launcher.exe.config
+C:\Users\Hr.Angelov\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Counter-Strike-Launcher.exe
+C:\Users\Hr.Angelov\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Counter-Strike-Launcher.pdb
+C:\Users\Hr.Angelov\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Counter-Strike-Launcher.exe
+C:\Users\Hr.Angelov\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Counter-Strike-Launcher.pdb
+C:\Users\Hr.Angelov\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
